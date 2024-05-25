@@ -9,3 +9,7 @@ function navBarsBtn() {
         main.style.marginLeft = 0;
     }
 }
+
+function send() {
+  alert("Your message has been send sucessfully!");
+}
